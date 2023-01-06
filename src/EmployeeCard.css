@@ -1,0 +1,83 @@
+#card-layout {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.card {
+  border-radius: 5px;
+  border: 1px solid #f4f4f4;
+  box-shadow: 1px 1px 10px #f4f4f4;
+  padding: 1.2rem;
+}
+
+.left-flex {
+  flex: 0 0 70% !important;
+}
+
+.right-flex {
+  flex: 0 0 30% !important;
+  text-align: right;
+}
+
+.txt-color {
+  color: #2d0658;
+}
+
+.fa {
+  margin: 0 1rem 0 0;
+  color: #9449df;
+}
+
+.header {
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.contact-details {
+  margin: 1rem 0rem;
+}
+
+.d-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-50 {
+  flex: 0 0 50% !important;
+}
+
+.flex-100 {
+  flex: 0 0 100% !important;
+}
+
+.margin-topdown {
+  margin: 0.3rem 0;
+}
+
+.f-14 {
+  font-size: 14px;
+}
+
+.btns {
+  border-radius: 15px;
+  padding: 0.4rem;
+  border: none;
+  outline: none;
+  font-size: 12px;
+  width: 100px;
+  margin: 0rem 0.3rem;
+}
+
+.button-container {
+  text-align: right;
+}
+
+.edit-btn {
+  background-color: #4274bf;
+  color: #fff;
+}
+
+.delete-btn {
+  background-color: #d64742;
+  color: #fff;
+}

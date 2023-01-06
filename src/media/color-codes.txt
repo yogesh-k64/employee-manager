@@ -1,0 +1,7 @@
+Heading and Text - #2D0658
+Text Input and Icon - Linear - #9449DF 100% - #371DD6 75%
+Background - Linear - #FFF0E1 100% - #FFFFFF 100%
+Button (save) - #7D45BA
+Button (edit) -#4274BF
+Button (delete) - #D64742
+Button (Okay) - #62AE73

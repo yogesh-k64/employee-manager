@@ -1,0 +1,21 @@
+.employeeContainer {
+  width: 60%;
+  height: 90%;
+  display: flex;
+  overflow: scroll;
+  flex-direction: column;
+  -ms-overflow-style: none;
+}
+.employeeContainer::-webkit-scrollbar {
+  display: none;
+}
+.people {
+  height: 50%;
+  width: 50%;
+  align-self: center;
+}
+.noEmployee {
+  color: #2d0658;
+  font-weight: 600;
+  align-self: center;
+}

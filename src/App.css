@@ -1,0 +1,7 @@
+.App {
+  height: 100%;
+  display: flex;
+  padding: 3rem;
+  justify-content: space-between;
+  overflow: hidden;
+}
